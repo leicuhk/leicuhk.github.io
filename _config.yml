@@ -85,8 +85,8 @@ author:
   bio              : "Ph.D. Candidate, CUHK-Shenzhen"
   location         : "Shenzhen, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    :  #"http://yourfullgooglescholarurl.com"
   email            : "lei.ap@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
