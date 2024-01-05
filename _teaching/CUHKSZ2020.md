@@ -7,7 +7,6 @@ venue: "The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), School of
 date: 2020-05-21
 location: "Shenzhen, China"
 ---
-
 I was a Teaching Assitant for the following courses from May 2020 to Dec. 2023. 
 
 MAT3007：Optimization (2020 Summer)
