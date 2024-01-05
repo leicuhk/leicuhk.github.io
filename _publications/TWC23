@@ -1,0 +1,15 @@
+---
+title: "CSI Sensing From Heterogeneous User Feedbacks: A Constrained Phase Retrieval Approach"
+collection: publications
+permalink: /publications/TWC23
+excerpt: ''
+date: Oct. 2023
+venue: 'IEEE Transactions on Wireless Communications'
+paperurl: 
+citation:
+---
+**Abstract**: This paper investigates the downlink channel state information (CSI) sensing in 5G heterogeneous networks composed of user equipments (UEs) with different feedback capabilities. We aim to enhance the CSI accuracy of UEs only affording the low-resolution Type-I codebook. While existing works have demonstrated that the task can be accomplished by solving a phase retrieval (PR) formulation based on the feedback of precoding matrix indicator (PMI) and channel quality indicator (CQI), they need many feedback rounds. In this paper, we propose a novel CSI sensing scheme that can significantly reduce the feedback overhead. Our scheme involves a novel parameter dimension reduction design by exploiting the spatial consistency of wireless channels among nearby UEs, and a constrained PR (CPR) formulation that characterizes the feasible region of CSI by the PMI information. To address the computational challenge due to the non-convexity and the large number of constraints of CPR, we develop a two-stage algorithm that firstly identifies and removes inactive constraints, followed by a fast first-order algorithm. The study is further extended to multi-carrier systems. Extensive tests over DeepMIMO and QuaDriGa datasets showcase that our designs greatly outperform existing methods and achieve the high-resolution Type-II codebook performance with a few rounds of feedback.
+
+[Read more](https://ieeexplore.ieee.org/document/10056863)
+
+
