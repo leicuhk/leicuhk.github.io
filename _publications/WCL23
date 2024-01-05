@@ -1,0 +1,13 @@
+---
+title: "Downlink CSI Recovery in Massive MIMO Systems by Proactive Sensing"
+collection: publications
+permalink: /publications/WCL23
+excerpt: ''
+date: Mar. 2023
+venue: 'IEEE Wireless Communications Letters'
+paperurl: 
+citation:
+---
+**Abstract**: Accurate channel state information (CSI) is critical to harvest the potential gain brought by massive multiple-input multiple-output (MIMO). However, the acquisition of downlink CSI is challenging in the frequency division duplex (FDD) systems due to limited feedback and the use of low-resolution codebooks. In this letter, we propose a novel sensing-assisted CSI recovery (SACR) scheme, where the BS proactively senses the downlink channel structure so that accurate CSI recovery at the BS can be achieved with only a few number of low-resolution user feedbacks. Numerical results show that the proposed scheme significantly outperforms the existing methods.
+
+[Read more](https://ieeexplore.ieee.org/document/9979723)
