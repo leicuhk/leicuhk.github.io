@@ -2,13 +2,12 @@
 title: "CSI Sensing from Heterogeneous User Feedbacks: A Constrained Phase Retrieval Approach"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2023-Oct
+excerpt: 'This paper investigates the downlink channel state information (CSI) sensing in 5G heterogeneous networks composed of user equipments (UEs) with different feedback capabilities. We aim to enhance the CSI accuracy of UEs only affording the low-resolution Type-I codebook. While existing works have demonstrated that the task can be accomplished by solving a phase retrieval (PR) formulation based on the feedback of precoding matrix indicator (PMI) and channel quality indicator (CQI), they need many feedback rounds. In this paper, we propose a novel CSI sensing scheme that can significantly reduce the feedback overhead. Our scheme involves a novel parameter dimension reduction design by exploiting the spatial consistency of wireless channels among nearby UEs, and a constrained PR (CPR) formulation that characterizes the feasible region of CSI by the PMI information. To address the computational challenge due to the non-convexity and the large number of constraints of CPR, we develop a two-stage algorithm that firstly identifies and removes inactive constraints, followed by a fast first-order algorithm. The study is further extended to multi-carrier systems. Extensive tests over DeepMIMO and QuaDriGa datasets showcase that our designs greatly outperform existing methods and achieve the high-resolution Type-II codebook performance with a few rounds of feedback.'
+date: 2023-10
 venue: 'IEEE Transactions on Wireless Communications'
-paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://ieeexplore.ieee.org/document/10056863)'
+paperurl: 'https://ieeexplore.ieee.org/document/10056863'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Read More](https://ieeexplore.ieee.org/document/10056863)
+
