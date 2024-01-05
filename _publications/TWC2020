@@ -1,0 +1,15 @@
+---
+title: "UAV Positioning and Power Control for Two-Way Wireless Relaying"
+collection: publications
+permalink: /publications/TWC2020
+excerpt: ''
+date: Feb. 2020
+venue: 'IEEE Transactions on Wireless Communications'
+paperurl: 
+citation:
+---
+**Abstract**: This paper considers an unmanned-aerial-vehicle-enabled (UAV-enabled) wireless network where a relay UAV is used for two-way communications between a ground base station (BS) and a set of distant user equipment (UE). The UAV adopts the amplify-and-forward strategy for two-way relaying over orthogonal frequency bands. The UAV positioning and the transmission powers of all nodes are jointly designed to maximize the sum rate of both uplink and downlink subject to transmission power constraints and the signal-to-noise ratio constraint on the UAV control channel. The formulated joint positioning and power control (JPPC) problem has an intricate expression of the sum rate due to two-way transmissions and is difficult to solve in general. We propose a novel concave surrogate function for the sum rate and employ the successive convex approximation (SCA) technique for obtaining a high-quality approximate solution. We show that the proposed surrogate function has a small curvature and enables a fast convergence of SCA. Furthermore, we develop a computationally efficient JPPC algorithm by applying the fast iterative shrinkage-thresholding algorithm (FISTA) type accelerated gradient projection (AGP) algorithm to solve the SCA problem as well as one of the projection subproblems, resulting in a double-loop AGP method. Simulation results show that the proposed JPPC algorithms are not only computationally efficient but also greatly outperform the heuristic approaches..
+
+[Read more](https://ieeexplore.ieee.org/document/8891916)
+
+
