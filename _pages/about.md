@@ -14,5 +14,5 @@ About me
 ======
 I am currently pursuing my Ph.D. degree at SSE, CUHK-SZ under the supervision of Prof. [Tsung-Hui Chang](https://myweb.cuhk.edu.cn/changtsunghui/Home/Index). My research interests are algorithm design for wireless networks, focusing on CSI reconstruction, integrated sensing and communication, and multi-antenna techniques. 
 
-Before joining CUHK-SZ, I received the B.E. degree (Honors Program) from Beijing Jiaotong University, Beijing, China, in 2014 and the M.S. degree from the Beijing Institute of Technology (BIT), Beijing, China, in 2017.
+Before joining CUHK-SZ, I received the B.E. degree (Siyuan Honor Program) from Beijing Jiaotong University (BJTU), Beijing, China, in 2014 and the M.S. degree from the Beijing Institute of Technology (BIT), Beijing, China, in 2017.
 
