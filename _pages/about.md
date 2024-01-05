@@ -12,7 +12,7 @@ Hello, I’m Lei Li, thanks for checking my personal website. Currently, I’m a
 
 About me
 ======
-I am currently pursuing my Ph.D. degree at SSE, CUHK-SZ under the supervision of Prof. Tsung-Hui Chang. My research interests are algorithm design for wireless networks, focusing on CSI reconstruction and integrated sensing and communication. Check our group [Signal Processing & Optimization Techniques (SPOT) Lab](https://myweb.cuhk.edu.cn/changtsunghui/Home/Index) for more information.
+I am currently pursuing my Ph.D. degree at SSE, CUHK-SZ under the supervision of Prof. [Tsung-Hui Chang](https://myweb.cuhk.edu.cn/changtsunghui/Home/Index). My research interests are algorithm design for wireless networks, focusing on CSI reconstruction, integrated sensing and communication, and multi-antenna techniques. 
 
 Before joining CUHK-SZ, I received the B.E. degree (Honors Program) from Beijing Jiaotong University, Beijing, China, in 2014 and the M.S. degree from the Beijing Institute of Technology (BIT), Beijing, China, in 2017.
 
