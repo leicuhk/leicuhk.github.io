@@ -15,7 +15,7 @@ Download my full CV [here](https://lei-ei.github.io/files/cv_leili.pdf)
 * Ph.D. candidate, Computer and Information Engineering, The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), Shenzhen, China, 2020 - now
 * Ph.D. student, Electrical Engineering, Virignia Tech, Blacksburg, VA, USA, Aug. 2018 - Aug. 2019
 * M.S., Information and Communication Engineering, Beijing Institute of Technology (BIT), Beijing, China, Sept. 2014 - Mar. 2017
-* B.E. (Honors Program), Communication Engineering, Beijing Jiaotong University (BJTU), Beijing, China, Spet. 2010 - June 2014
+* B.E., (Siyuan Honor Program), Communication Engineering, Beijing Jiaotong University (BJTU), Beijing, China, Spet. 2010 - June 2014
 
 
 ### Select Publications
