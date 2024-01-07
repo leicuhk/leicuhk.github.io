@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I’m Lei Li, thanks for checking my personal website. Currently, I’m a PhD candidate at The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), working on CSI sensing and multi-antenna techniques for 5G/next-G wireless networks. Feel free to contact me if you have any questions.
+Hello, I’m Lei Li, thanks for checking my personal website. Currently, I’m a PhD candidate at The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), working on CSI sensing and multi-antenna techniques for 5G/next-G wireless networks.
 
 About me
 ======
