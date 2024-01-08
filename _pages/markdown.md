@@ -7,4 +7,4 @@ redirect_from:
   - /markdown.html
 ---
 
-I enjoyed reading, running and playing basketball.
+I enjoyed reading, running and playing basketball in my free time.
