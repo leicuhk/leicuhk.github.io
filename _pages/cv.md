@@ -26,9 +26,9 @@ Download my full CV [here](https://lei-ei.github.io/files/cv_leili.pdf)
 ### Honors and Awards
 
 * Graduate Research Conference Poster Award, Second Place, CUHK-Shenzhen, 2022
-* Second Class Scholarship of BIT, 2014 & 2015
+* University Scholarship of BIT, 2014 & 2015
 * National Endeavor Scholarship, 2012 & 2013
-* Second Class Scholarship of BJTU, 2012 & 2013
+* University Scholarship of BJTU, 2012 & 2013
 * Merit Student of BJTU, 2013
 * Second Prize in Electronic Design Contest at BJTU, 2013
 * Outstanding Award in the 4th Innovational Work Election on Electronics and Information Design for College Students, Chinese Institute of Electronics, 2013
