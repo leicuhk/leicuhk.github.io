@@ -25,7 +25,7 @@ Download my full CV [here](https://lei-ei.github.io/files/cv_leili.pdf)
 
 ### Honors and Awards
 
-* Graduate research conference poster award, second place, CUHK-Shenzhen, 2022
+* Graduate Research Conference Poster Award, Second Place, CUHK-Shenzhen, 2022
 * Second Class Scholarship of BIT, 2014 & 2015
 * National Endeavor Scholarship, 2012 & 2013
 * Second Class Scholarship of BJTU, 2012 & 2013
