@@ -40,7 +40,7 @@ Conference Papers
 [C4] **Lei Li**, Jianqiang Chen, Chengcai Li, Bin Li, Niwei Wang, and Zesong Fei, “[Balancing Energy Efficiency and User Rate Fairness in Multicell Networks](https://ieeexplore.ieee.org/document/7954468),"
 in Proc. _IEEE WPMC_ 2016.
 
-[C3] Niwei Wang, **Lei Li**, Jianqiang Chen, Zesong Fei, and Jingming Kuang, “[The ADMM-based Beamforming Design with per Antenna Power Constraints](https://ieeexplore.ieee.org/document/7954528)," in Proc. _ACM WPMC_ 2016. 
+[C3] Niwei Wang, **Lei Li**, Jianqiang Chen, Zesong Fei, and Jingming Kuang, “[The ADMM-based Beamforming Design with per Antenna Power Constraints](https://ieeexplore.ieee.org/document/7954528)," in Proc. _IEEE WPMC_ 2016. 
 
 [C2] Bin Li, **Lei Li**, Dongxuan He, Jianqiang Chen, and Weilian Kong, “[Energy Efficient Secure Transmission in Massive MIMO Systems with Pilot Attack](https://ieeexplore.ieee.org/document/7752498)," in Proc. _IEEE WCSP_ 2016. 
 
