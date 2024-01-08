@@ -16,3 +16,11 @@ I am currently pursuing my Ph.D. degree at SSE, CUHK-SZ under the supervision of
 
 Before joining CUHK-SZ, I received the B.E. degree (Siyuan Honor Program) from Beijing Jiaotong University (BJTU), Beijing, China, in 2014 and the M.S. degree from the Beijing Institute of Technology (BIT), Beijing, China, in 2017.
 
+News
+======
+\[Jan. 2024\] I successfully defended my Ph.D. dissertation.
+
+\[Dec. 2023\] Two papers were accepted by IEEE ICASSP, 2024.
+
+\[Jun. 2023\] Our paper received the "Top 3% Paper Recognition" in IEEE ICASSP 2023.
+
