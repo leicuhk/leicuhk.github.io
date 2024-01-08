@@ -17,6 +17,10 @@ Download my full CV [here](https://lei-ei.github.io/files/cv_leili.pdf)
 * M.S., Information and Communication Engineering, Beijing Institute of Technology (BIT), Beijing, China, Sept. 2014 - Mar. 2017
 * B.E. (Siyuan Honor Program), Communication Engineering, Beijing Jiaotong University (BJTU), Beijing, China, Sept. 2010 - June 2014
 
+### Work Experience
+* Aug. 2014 - Dec. 2014, July 2015 - Jan. 2016: Software Intern, V2V Communication System-Level Simulation Platform Development, Beijing Huawei Digital Technologies Co., Ltd.
+* Sept. 2017 - Jan. 2018: Test Engineering Intern, 5G C-RAN Testbed, China Mobile Research Institute 
+
 
 ### Honors and Awards
 
@@ -34,6 +38,9 @@ Download my full CV [here](https://lei-ei.github.io/files/cv_leili.pdf)
 * Experienced knowledge in wireless communication and signal processing
 * Programming Language: Matlab, C/C++, and Python
 * Software: Matlab, Visual Studio, and Pycharm
+
+### Services
+Reviewer: IEEE Transactions on Wireless Communications, IEEE Journal on Selected Topics in Signal Processing, IEEE Open Journal of Signal Processing
   
 ### Teaching
 
