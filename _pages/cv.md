@@ -19,7 +19,7 @@ Download my full CV [here](https://lei-ei.github.io/files/cv_leili.pdf)
 
 ### Work Experience
 * Aug. 2014 - Dec. 2014, July 2015 - Jan. 2016: Software Intern, V2V Communication System-Level Simulation Platform Development, Beijing Huawei Digital Technologies Co., Ltd.
-* Sept. 2017 - Jan. 2018: Test Engineering Intern, 5G C-RAN Testbed, China Mobile Research Institute 
+* Sept. 2017 - Jan. 2018: Test Engineering Intern, 5G C-RAN Testbed Development, China Mobile Research Institute 
 
 
 ### Honors and Awards
