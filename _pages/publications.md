@@ -37,7 +37,7 @@ Conference Papers
 [C5] Minghe Zhu, **Lei Li**, Shuqiang Xia, and Tsung-Hui Chang,
 “[Information and Sensing Beamforming Optimization for Multi-User Multi-Target MIMO ISAC Systems](https://ieeexplore.ieee.org/document/10097000)," in Proc. _IEEE ICASSP_ 2023. **(Top 3% Paper Recognition)**
 
-[C4] **Lei Li**, Jianqiang Chen, Chengcai Li, Bin Li, Niwei Wang, Zesong Fei, “[Balancing Energy Efficiency and User Rate Fairness in Multicell Networks](https://ieeexplore.ieee.org/document/7954468),"
+[C4] **Lei Li**, Jianqiang Chen, Chengcai Li, Bin Li, Niwei Wang, and Zesong Fei, “[Balancing Energy Efficiency and User Rate Fairness in Multicell Networks](https://ieeexplore.ieee.org/document/7954468),"
 in Proc. _IEEE WPMC_ 2016.
 
 [C3] Niwei Wang, **Lei Li**, Jianqiang Chen, Zesong Fei, and Jingming Kuang, “[The ADMM-based Beamforming Design with per Antenna Power Constraints](https://ieeexplore.ieee.org/document/7954528)," in Proc. _ACM WPMC_ 2016. 
@@ -49,6 +49,6 @@ in Proc. _IEEE WPMC_ 2016.
 
 Working Papers
 ======
-[W2] **Lei Li**, and Tsung-Hui Chang, “Low-Complexity ISAC Beamforming Optimization for Robust Transmission in Dynamic MmWave MIMO Networks," submitted to _IEEE JSAC__. 
+[W2] **Lei Li**, and Tsung-Hui Chang, “Low-Complexity ISAC Beamforming Optimization for Robust Transmission in Dynamic MmWave MIMO Networks," submitted to _IEEE JSAC_. 
 
-[W1] Kexin Zhang, **Lei Li**, Chao Shen, Ruisi He, and Tsung-Hui Chang, “Fronthaul Compression and Power Allocation Optimization for Networked Integrated Sensing and Communication," submitted to _IEEE TVT__.
+[W1] Kexin Zhang, **Lei Li**, Chao Shen, Ruisi He, and Tsung-Hui Chang, “Fronthaul Compression and Power Allocation Optimization for Networked Integrated Sensing and Communication," submitted to _IEEE TVT_.
