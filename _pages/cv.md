@@ -18,8 +18,9 @@ Download my full CV [here](https://lei-ei.github.io/files/cv_leili.pdf)
 * B.E. (Siyuan Honor Program), Communication Engineering, Beijing Jiaotong University (BJTU), Beijing, China, Sept. 2010 - June 2014
 
 ### Work Experience
+* Mar. 2018 - July 2018: Research Assistant, Resource Management in UAV Communications, CUHK-Shenzhen
+* Sept. 2017 - Jan. 2018: Test Engineering Intern, 5G C-RAN Testbed Development, China Mobile Research Institute
 * Aug. 2014 - Dec. 2014, July 2015 - Jan. 2016: Software Intern, V2V Communication System-Level Simulation Platform Development, Beijing Huawei Digital Technologies Co., Ltd.
-* Sept. 2017 - Jan. 2018: Test Engineering Intern, 5G C-RAN Testbed Development, China Mobile Research Institute 
 
 
 ### Honors and Awards
