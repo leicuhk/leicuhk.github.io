@@ -18,13 +18,6 @@ Download my full CV [here](https://lei-ei.github.io/files/cv_leili.pdf)
 * B.E. (Siyuan Honor Program), Communication Engineering, Beijing Jiaotong University (BJTU), Beijing, China, Sept. 2010 - June 2014
 
 
-### Selected Publications
-
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-
 ### Honors and Awards
 
 * Graduate research conference poster award, second place, CUHK-Shenzhen, 2022
