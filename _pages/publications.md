@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+Journal Papers
+======
 [J6] **Lei Li**, Xing Zeng, Ya-Feng Liu, Yanqing Xu, and Tsung-Hui Chang, “[CSI Sensing from Heterogeneous User Feedbacks: A Constrained Phase Retrieval Approach](https://ieeexplore.ieee.org/document/10056863)," _IEEE Transactions on Wireless Communications,_ 2023. 
 
 [J5] **Lei Li**, Minghe Zhu, Shuqiang Xia, and Tsung-Hui Chang, “[Downlink CSI Recovery in Massive MIMO Systems by Proactive Sensing](https://ieeexplore.ieee.org/document/9979723)," _IEEE Wireless Communications Letters,_ 2023.
@@ -25,9 +26,9 @@ redirect_from:
 
 Conference Papers
 ======
-[C9] **Lei Li**, Tenghao Cai, and Tsung-Hui Chang, “ISAC Beamforming Optimization for Robust Transmission in Dynamic MmWave MIMO Networks," Accepted by _IEEE ICASSP_ 2024.
+[C9] **Lei Li**, Tenghao Cai, and Tsung-Hui Chang, “ISAC Beamforming Optimization for Robust Transmission in Dynamic MmWave MIMO Networks," accepted by _IEEE ICASSP_ 2024.
 
-[C8] Tenghao Cai, **Lei Li**, and Tsung-Hui Chang, “Sensing-assisted Distributed User Scheduling and Beamforming in Multi-cell MmWave Networks," Accepted by _IEEE ICASSP_ 2024.
+[C8] Tenghao Cai, **Lei Li**, and Tsung-Hui Chang, “Sensing-assisted Distributed User Scheduling and Beamforming in Multi-cell MmWave Networks," accepted by _IEEE ICASSP_ 2024.
 
 
 [C7] **Lei Li**, Qian Chen, Xing Zeng, and Tsung-Hui Chang, “[Downlink CSI Sensing from Heterogeneous User Feedbacks: A Constrained Phase Retrieval Approach](https://ieeexplore.ieee.org/document/9834015)," in Proc. _IEEE SPAWC_ 2022.
