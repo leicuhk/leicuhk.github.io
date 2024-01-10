@@ -12,7 +12,7 @@ Download my full CV [here](https://lei-ei.github.io/files/cv_leili.pdf)
 
 ### Education
 
-* Ph.D. candidate, Computer and Information Engineering, The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), Shenzhen, China, 2020 - now
+* Ph.D. candidate, Computer and Information Engineering, The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), Shenzhen, China, 2020 - present
 * Ph.D. student, Electrical Engineering, Virginia Tech, Blacksburg, VA, USA, Aug. 2018 - Aug. 2019
 * M.S., Information and Communication Engineering, Beijing Institute of Technology (BIT), Beijing, China, Sept. 2014 - Mar. 2017
 * B.E. (Siyuan Honor Program), Communication Engineering, Beijing Jiaotong University (BJTU), Beijing, China, Sept. 2010 - June 2014
@@ -22,6 +22,8 @@ Download my full CV [here](https://lei-ei.github.io/files/cv_leili.pdf)
 * Sept. 2017 - Jan. 2018: Test Engineering Intern, 5G C-RAN Testbed Development, China Mobile Research Institute
 * Aug. 2014 - Dec. 2014, July 2015 - Jan. 2016: Software Intern, V2V Communication System-Level Simulation Platform Development, Beijing Huawei Digital Technologies Co., Ltd.
 
+### Other Experience
+Feb. 2015 - June 2015: Visiting Student at [Wireless Communications & Signal Processing (WCSP) Lab](https://www.ee.nthu.edu.tw/cychi/), supervised by [Prof. Chong-Yung Chi](https://www.ee.nthu.edu.tw/cychi/people/people.php), National Tsing Hua University (NTHU).
 
 ### Honors and Awards
 
