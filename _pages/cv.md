@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Download my full CV [here](https://lei-ei.github.io/files/cv_leili.pdf)
+Download my full CV [here](https://leicuhk.github.io/files/cv_leili.pdf)
 
 ### Education
 
