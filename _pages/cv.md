@@ -27,6 +27,7 @@ Feb. 2015 - June 2015: Visiting Student at [Wireless Communications & Signal Pro
 
 ### Honors and Awards
 
+* SRIBD PhD Fellowship (Gold Class), Shenzhen Research Institute of Big Data (SRIBD), 2023
 * Graduate Research Conference Poster Award, Second Place, CUHK-Shenzhen, 2022
 * University Scholarship of BIT, 2014 & 2015
 * National Endeavor Scholarship, 2012 & 2013
