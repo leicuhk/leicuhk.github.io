@@ -44,7 +44,7 @@ Feb. 2015 - June 2015: Visiting Student at [Wireless Communications & Signal Pro
 * Software: Matlab, Visual Studio, and Pycharm
 
 ### Services
-Reviewer: IEEE Transactions on Wireless Communications, IEEE Journal on Selected Topics in Signal Processing, IEEE Open Journal of Signal Processing
+Reviewer: IEEE Transactions on Wireless Communications, IEEE Journal on Selected Areas in Communications, IEEE Journal on Selected Topics in Signal Processing, IEEE Open Journal of Signal Processing
   
 ### Teaching
 
