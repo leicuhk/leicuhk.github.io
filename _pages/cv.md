@@ -23,7 +23,7 @@ Download my full CV [here](https://leicuhk.github.io/files/cv_leili.pdf)
 * Aug. 2014 - Dec. 2014, July 2015 - Jan. 2016: Software Intern, V2V Communication System-Level Simulation Platform Development, Beijing Huawei Digital Technologies Co., Ltd.
 
 ### Other Experience
-Feb. 2015 - June 2015: Visiting Student at [Wireless Communications & Signal Processing (WCSP) Lab](https://www.ee.nthu.edu.tw/cychi/), supervised by [Prof. Chong-Yung Chi](https://www.ee.nthu.edu.tw/cychi/people/people.php), National Tsing Hua University (NTHU).
+Feb. 2015 - June 2015: Visiting Student at [Wireless Communications & Signal Processing (WCSP) Lab](https://www.ee.nthu.edu.tw/cychi/index.php), supervised by [Prof. Chong-Yung Chi](https://www.ee.nthu.edu.tw/cychi/people/people.php), National Tsing Hua University (NTHU).
 
 ### Honors and Awards
 
