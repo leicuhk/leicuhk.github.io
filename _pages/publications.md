@@ -50,6 +50,6 @@ in Proc. _IEEE WPMC_ 2016.
 
 Working Papers
 ======
-[W2] **Lei Li**, and Tsung-Hui Chang, “Low-Complexity ISAC Beamforming Optimization for Robust Transmission in Dynamic MmWave MIMO Networks," submitted to _IEEE JSAC_. 
+[W2] **Lei Li**, Jiawei Zhang, and Tsung-Hui Chang, “Beamforming Optimization for Robust Sensing and Communication in Dynamic Mmwave MIMO Networks," submitted to _IEEE JSAC_. 
 
 [W1] Kexin Zhang, **Lei Li**, Chao Shen, Ruisi He, and Tsung-Hui Chang, “Fronthaul Compression and Power Allocation Optimization for Networked Integrated Sensing and Communication," to be submitted to _IEEE TVT_.
