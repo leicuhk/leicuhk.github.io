@@ -52,4 +52,4 @@ Working Papers
 ======
 [W2] **Lei Li**, Jiawei Zhang, and Tsung-Hui Chang, “Beamforming Optimization for Robust Sensing and Communication in Dynamic Mmwave MIMO Networks," submitted to _IEEE JSAC_. 
 
-[W1] Kexin Zhang, **Lei Li**, Chao Shen, Ruisi He, and Tsung-Hui Chang, “Fronthaul Compression and Power Allocation Optimization for Networked Integrated Sensing and Communication," to be submitted to _IEEE TVT_.
+[W1] Kexin Zhang, **Lei Li**, Chao Shen, Ruisi He, and Tsung-Hui Chang, “Fronthaul Compression and Power Allocation Optimization for Networked Integrated Sensing and Communication," to be submitted to _IEEE TWC_.
