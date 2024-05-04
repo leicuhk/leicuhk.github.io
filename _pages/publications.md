@@ -26,9 +26,9 @@ Journal Papers
 
 Conference Papers
 ======
-[C9] **Lei Li**, Tenghao Cai, and Tsung-Hui Chang, “ISAC Beamforming Optimization for Robust Transmission in Dynamic MmWave MIMO Networks," accepted by _IEEE ICASSP_ 2024.
+[C9] **Lei Li**, Tenghao Cai, and Tsung-Hui Chang, “ISAC Beamforming Optimization for Robust Transmission in Dynamic MmWave MIMO Networks," in Proc. _IEEE ICASSP_ 2024.
 
-[C8] Tenghao Cai, **Lei Li**, and Tsung-Hui Chang, “Sensing-assisted Distributed User Scheduling and Beamforming in Multi-cell MmWave Networks," accepted by _IEEE ICASSP_ 2024.
+[C8] Tenghao Cai, **Lei Li**, and Tsung-Hui Chang, “Sensing-assisted Distributed User Scheduling and Beamforming in Multi-cell MmWave Networks," in Proc. _IEEE ICASSP_ 2024.
 
 
 [C7] **Lei Li**, Qian Chen, Xing Zeng, and Tsung-Hui Chang, “[Downlink CSI Sensing from Heterogeneous User Feedbacks: A Constrained Phase Retrieval Approach](https://ieeexplore.ieee.org/document/9834015)," in Proc. _IEEE SPAWC_ 2022.
