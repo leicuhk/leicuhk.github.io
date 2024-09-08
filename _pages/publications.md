@@ -26,9 +26,9 @@ Journal Papers
 
 Conference Papers
 ======
-[C9] **Lei Li**, Tenghao Cai, and Tsung-Hui Chang, “ISAC Beamforming Optimization for Robust Transmission in Dynamic MmWave MIMO Networks," in Proc. _IEEE ICASSP_ 2024.
+[C9] **Lei Li**, Tenghao Cai, and Tsung-Hui Chang, “[ISAC Beamforming Optimization for Robust Transmission in Dynamic MmWave MIMO Networks](https://ieeexplore.ieee.org/document/10448160)," in Proc. _IEEE ICASSP_ 2024.
 
-[C8] Tenghao Cai, **Lei Li**, and Tsung-Hui Chang, “Sensing-assisted Distributed User Scheduling and Beamforming in Multi-cell MmWave Networks," in Proc. _IEEE ICASSP_ 2024.
+[C8] Tenghao Cai, **Lei Li**, and Tsung-Hui Chang, “[Sensing-assisted Distributed User Scheduling and Beamforming in Multi-cell MmWave Networks](https://ieeexplore.ieee.org/document/10447645)," in Proc. _IEEE ICASSP_ 2024.
 
 
 [C7] **Lei Li**, Qian Chen, Xing Zeng, and Tsung-Hui Chang, “[Downlink CSI Sensing from Heterogeneous User Feedbacks: A Constrained Phase Retrieval Approach](https://ieeexplore.ieee.org/document/9834015)," in Proc. _IEEE SPAWC_ 2022.
@@ -50,6 +50,8 @@ in Proc. _IEEE WPMC_ 2016.
 
 Working Papers
 ======
+[W3] Qian Chen, **Lei Li**, Xiaodong Luo, and Tsung-Hui Chang, “Transformer-Inspired Deep Adaptive CSI Sensing with Learnable Quantizer,” submitted to _IEEE TVT_
+
 [W2] **Lei Li**, Jiawei Zhang, and Tsung-Hui Chang, “Beamforming Optimization for Robust Sensing and Communication in Dynamic Mmwave MIMO Networks," submitted to _IEEE JSAC_. 
 
 [W1] Kexin Zhang, **Lei Li**, Chao Shen, Ruisi He, and Tsung-Hui Chang, “Fronthaul Compression and Power Allocation Optimization for Networked Integrated Sensing and Communication," to be submitted to _IEEE TWC_.
