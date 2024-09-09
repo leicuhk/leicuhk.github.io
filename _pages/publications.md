@@ -7,6 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Working Papers
+======
+[W3] Qian Chen, **Lei Li**, Xiaodong Luo, and Tsung-Hui Chang, “Transformer-Inspired Deep Adaptive CSI Sensing with Learnable Quantizer,” submitted to _IEEE TVT_.
+
+[W2] **Lei Li**, Jiawei Zhang, and Tsung-Hui Chang, “Beamforming Optimization for Robust Sensing and Communication in Dynamic Mmwave MIMO Networks," submitted to _IEEE JSAC_. 
+
+[W1] Kexin Zhang, **Lei Li**, Chao Shen, Ruisi He, and Tsung-Hui Chang, “Fronthaul Compression and Power Allocation Optimization for Networked Integrated Sensing and Communication," submitted to _IEEE TVT_.
+
+
 Journal Papers
 ======
 [J6] **Lei Li**, Xing Zeng, Ya-Feng Liu, Yanqing Xu, and Tsung-Hui Chang, “[CSI Sensing from Heterogeneous User Feedbacks: A Constrained Phase Retrieval Approach](https://ieeexplore.ieee.org/document/10056863)," _IEEE Transactions on Wireless Communications,_ 2023. 
@@ -47,11 +56,3 @@ in Proc. _IEEE WPMC_ 2016.
 
 [C1] Ce Sun, **Lei Li**, Jianqiang Chen, Dai Jia, Hanxiao Yu, Jingxuan Huang, and Zesong Fei, “[System-Level Performance Estimation of SCMA](https://ieeexplore.ieee.org/document/7833614)," in Proc. _IEEE ICCS_ 2016. 
 
-
-Working Papers
-======
-[W3] Qian Chen, **Lei Li**, Xiaodong Luo, and Tsung-Hui Chang, “Transformer-Inspired Deep Adaptive CSI Sensing with Learnable Quantizer,” submitted to _IEEE TVT_.
-
-[W2] **Lei Li**, Jiawei Zhang, and Tsung-Hui Chang, “Beamforming Optimization for Robust Sensing and Communication in Dynamic Mmwave MIMO Networks," submitted to _IEEE JSAC_. 
-
-[W1] Kexin Zhang, **Lei Li**, Chao Shen, Ruisi He, and Tsung-Hui Chang, “Fronthaul Compression and Power Allocation Optimization for Networked Integrated Sensing and Communication," submitted to _IEEE TVT_.
