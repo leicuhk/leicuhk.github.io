@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I’m Lei Li, thanks for checking my personal website. Currently, I’m a research assistant at The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), working on CSI sensing and multi-antenna techniques for 5G/next-G wireless networks.
+Hello, I’m Lei Li, thanks for checking my personal website. Currently, I’m a research associate at The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), working on CSI sensing and multi-antenna techniques for 5G/next-G wireless networks.
 
 About me
 ======
