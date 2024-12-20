@@ -11,7 +11,7 @@ Working Papers
 ======
 [W2] Qian Chen, **Lei Li**, Xiaodong Luo, and Tsung-Hui Chang, “Transformer-Inspired Deep Adaptive CSI Sensing with Learnable Quantizer,” submitted to _IEEE TVT_.
 
-[W1] Kexin Zhang, **Lei Li**, Chao Shen, Ruisi He, and Tsung-Hui Chang, “Fronthaul Compression and Power Allocation Optimization for Networked Integrated Sensing and Communication," submitted to _IEEE TVT_.
+[W1] Kexin Zhang, **Lei Li**, Chao Shen, Ruisi He, and Tsung-Hui Chang, “Joint Fronthaul Compression and Power Allocation Optimization for Networked ISAC," submitted to _IEEE TVT_.
 
 
 Journal Papers
