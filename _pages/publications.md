@@ -9,13 +9,12 @@ redirect_from:
 ---
 Working Papers
 ======
-[W2] Qian Chen, **Lei Li**, Xiaodong Luo, and Tsung-Hui Chang, “Transformer-Inspired Deep Adaptive CSI Sensing with Learnable Quantizer,” submitted to _IEEE TVT_.
-
-[W1] Kexin Zhang, **Lei Li**, Chao Shen, Ruisi He, and Tsung-Hui Chang, “Joint Fronthaul Compression and Power Allocation Optimization for Networked ISAC," submitted to _IEEE TVT_.
-
+[W1] Qian Chen, **Lei Li**, Xiaodong Luo, and Tsung-Hui Chang, “Transformer-Inspired Deep Adaptive CSI Sensing with Learnable Quantizer,” submitted to _IEEE TVT_.
 
 Journal Papers
 ======
+[J8] Kexin Zhang, **Lei Li**, Chao Shen, Ruisi He, and Tsung-Hui Chang, “Joint Fronthaul Compression and Power Allocation Optimization for Networked ISAC," accepted by _IEEE Transactions on Vehicular Technology_.
+
 [J7] **Lei Li**, Jiawei Zhang, and Tsung-Hui Chang, “Beamforming Optimization for Robust Sensing and Communication in Dynamic Mmwave MIMO Networks," accepted by _IEEE Journal on Selected Areas in Communications_. 
 
 [J6] **Lei Li**, Xing Zeng, Ya-Feng Liu, Yanqing Xu, and Tsung-Hui Chang, “[CSI Sensing from Heterogeneous User Feedbacks: A Constrained Phase Retrieval Approach](https://ieeexplore.ieee.org/document/10056863)," _IEEE Transactions on Wireless Communications,_ 2023. 
