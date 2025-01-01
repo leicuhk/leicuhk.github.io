@@ -13,9 +13,9 @@ Working Papers
 
 Journal Papers
 ======
-[J8] Kexin Zhang, **Lei Li**, Chao Shen, Ruisi He, and Tsung-Hui Chang, “Joint Fronthaul Compression and Power Allocation Optimization for Networked ISAC," accepted by _IEEE Transactions on Vehicular Technology_.
+[J8] **Lei Li**, Jiawei Zhang, and Tsung-Hui Chang, “Beamforming Optimization for Robust Sensing and Communication in Dynamic Mmwave MIMO Networks," accepted by _IEEE Journal on Selected Areas in Communications_. 
 
-[J7] **Lei Li**, Jiawei Zhang, and Tsung-Hui Chang, “Beamforming Optimization for Robust Sensing and Communication in Dynamic Mmwave MIMO Networks," accepted by _IEEE Journal on Selected Areas in Communications_. 
+[J7] Kexin Zhang, **Lei Li**, Chao Shen, Ruisi He, and Tsung-Hui Chang, “[Joint Fronthaul Compression and Power Allocation Optimization for Networked ISAC](https://ieeexplore.ieee.org/document/10818419)," _IEEE Transactions on Vehicular Technology_, 2024.
 
 [J6] **Lei Li**, Xing Zeng, Ya-Feng Liu, Yanqing Xu, and Tsung-Hui Chang, “[CSI Sensing from Heterogeneous User Feedbacks: A Constrained Phase Retrieval Approach](https://ieeexplore.ieee.org/document/10056863)," _IEEE Transactions on Wireless Communications,_ 2023. 
 
