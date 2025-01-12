@@ -22,7 +22,7 @@ News
 
 \[Nov. 2024\] Our paper "Beamforming Optimization for Robust Sensing and Communication in Dynamic Mmwave MIMO Networks" has been accepted by IEEE Journal on Selected Areas in Communications.
 
-\[Jan. 2024\] I successfully defended my Ph.D. dissertation.
+\[Jan. 2024\] I successfully defended my Ph.D. dissertation "Efficient CSI sensing for multi-antenna communications".
 
 \[Dec. 2023\] Our paper "ISAC Beamforming Optimization for Robust Transmission in Dynamic MmWave MIMO Networks" was accepted by IEEE ICASSP, 2024.
 
