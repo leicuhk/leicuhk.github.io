@@ -18,9 +18,15 @@ Before joining CUHK-Shenzhen, I received the B.E. degree (Siyuan Honor Program) 
 
 News
 ======
+\[Dec. 2024\] Our paper "Joint Fronthaul Compression and Power Allocation Optimization for Networked ISAC" has been accepted by IEEE Transactions on Vehicular Technology.
+
+\[Nov. 2024\] Our paper "Beamforming Optimization for Robust Sensing and Communication in Dynamic Mmwave MIMO Networks" has been accepted by IEEE Journal on Selected Areas in Communications.
+
 \[Jan. 2024\] I successfully defended my Ph.D. dissertation.
 
-\[Dec. 2023\] Two papers were accepted by IEEE ICASSP, 2024.
+\[Dec. 2023\] Our paper "ISAC Beamforming Optimization for Robust Transmission in Dynamic MmWave MIMO Networks" was accepted by IEEE ICASSP, 2024.
 
-\[Jun. 2023\] Our paper received the "Top 3% Paper Recognition" in IEEE ICASSP 2023.
+\[Dec. 2023\] Our paper "Sensing-assisted Distributed User Scheduling and Beamforming in Multi-cell MmWave Networks" was accepted by IEEE ICASSP, 2024.
+
+\[Jun. 2023\] Our paper "Information and Sensing Beamforming Optimization for Multi-User Multi-Target MIMO ISAC Systems" received the "Top 3% Paper Recognition" in IEEE ICASSP 2023.
 
