@@ -18,6 +18,8 @@ Before joining CUHK-Shenzhen, I received the B.E. degree (Siyuan Honor Program) 
 
 News
 ======
+\[Jan. 2025\] Our paper "When GNNs Meet Symmetry in ILPs: An Orbit-based Feature Augmentation Approach" has been accepted by ICLR 2025.
+
 \[Dec. 2024\] Our paper "Joint Fronthaul Compression and Power Allocation Optimization for Networked ISAC" has been accepted by IEEE Transactions on Vehicular Technology.
 
 \[Nov. 2024\] Our paper "Beamforming Optimization for Robust Sensing and Communication in Dynamic Mmwave MIMO Networks" has been accepted by IEEE Journal on Selected Areas in Communications.
