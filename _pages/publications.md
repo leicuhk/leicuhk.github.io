@@ -34,6 +34,8 @@ Journal Papers
 
 Conference Papers
 ======
+[10] Qian Chen, **Lei Li**, Qian Li, Jianghua Wu, Akang Wang, Ruoyu Sun, Xiaodong Luo, Tsung-Hui Chang, and Qingjiang Shi, “[When GNNs Meet Symmetry in ILPs: An Orbit-based Feature Augmentation Approach](https://openreview.net/forum?id=wVTJRnZ11Z)," accepted by ICLR 2025.
+
 [C9] **Lei Li**, Tenghao Cai, and Tsung-Hui Chang, “[ISAC Beamforming Optimization for Robust Transmission in Dynamic MmWave MIMO Networks](https://ieeexplore.ieee.org/document/10448160)," in Proc. _IEEE ICASSP_ 2024.
 
 [C8] Tenghao Cai, **Lei Li**, and Tsung-Hui Chang, “[Sensing-assisted Distributed User Scheduling and Beamforming in Multi-cell MmWave Networks](https://ieeexplore.ieee.org/document/10447645)," in Proc. _IEEE ICASSP_ 2024.
