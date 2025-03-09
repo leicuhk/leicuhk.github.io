@@ -9,7 +9,6 @@ redirect_from:
 ---
 Working Papers
 ======
-[W1] Qian Chen, **Lei Li**, Xiaodong Luo, and Tsung-Hui Chang, “Transformer-Inspired Deep Adaptive CSI Sensing with Learnable Quantizer,” submitted to _IEEE TVT_.
 
 Journal Papers
 ======
