@@ -33,9 +33,9 @@ Journal Papers
 
 Conference Papers
 ======
-[11] Kexin Zhang, Yanqing Xu, **Lei Li**, Ruisi He, Chao Shen, and Tsung-Hui Chang, “Joint Scheduling and Beamforming Design in ISAC Networks for Multi-target Tracking," accepted by _IEEE SPAWC_ 2025.
+[C11] Kexin Zhang, Yanqing Xu, **Lei Li**, Ruisi He, Chao Shen, and Tsung-Hui Chang, “Joint Scheduling and Beamforming Design in ISAC Networks for Multi-target Tracking," accepted by _IEEE SPAWC_ 2025.
 
-[10] Qian Chen, **Lei Li**, Qian Li, Jianghua Wu, Akang Wang, Ruoyu Sun, Xiaodong Luo, Tsung-Hui Chang, and Qingjiang Shi, “[When GNNs Meet Symmetry in ILPs: An Orbit-based Feature Augmentation Approach](https://openreview.net/forum?id=wVTJRnZ11Z)," accepted by ICLR 2025.
+[C10] Qian Chen, **Lei Li**, Qian Li, Jianghua Wu, Akang Wang, Ruoyu Sun, Xiaodong Luo, Tsung-Hui Chang, and Qingjiang Shi, “[When GNNs Meet Symmetry in ILPs: An Orbit-based Feature Augmentation Approach](https://openreview.net/forum?id=wVTJRnZ11Z)," accepted by ICLR 2025.
 
 [C9] **Lei Li**, Tenghao Cai, and Tsung-Hui Chang, “[ISAC Beamforming Optimization for Robust Transmission in Dynamic MmWave MIMO Networks](https://ieeexplore.ieee.org/document/10448160)," in Proc. _IEEE ICASSP_ 2024.
 
