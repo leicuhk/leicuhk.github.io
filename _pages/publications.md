@@ -12,6 +12,8 @@ Working Papers
 
 Journal Papers
 ======
+[J9] Qian Chen, **Lei Li**, Xiaodong Luo, and Tsung-Hui Chang, “[Transformer-Inspired Deep Adaptive CSI Sensing with Learnable Quantizer](https://ieeexplore.ieee.org/abstract/document/10919216)," _IEEE Transactions on Vehicular Technology_, 2025. 
+
 [J8] **Lei Li**, Jiawei Zhang, and Tsung-Hui Chang, “[Beamforming Optimization for Robust Sensing and Communication in Dynamic Mmwave MIMO Networks](https://ieeexplore.ieee.org/document/10845207)," _IEEE Journal on Selected Areas in Communications_, 2025. 
 
 [J7] Kexin Zhang, **Lei Li**, Chao Shen, Ruisi He, and Tsung-Hui Chang, “[Joint Fronthaul Compression and Power Allocation Optimization for Networked ISAC](https://ieeexplore.ieee.org/document/10818419)," _IEEE Transactions on Vehicular Technology_, 2024.
