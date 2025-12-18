@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant at CUHK-Shenzhen"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate courses"
 permalink: /teaching/CUHKSZ2020
 venue: "The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), School of Science and Engineering"
 date: 2020-05-21 to 2023-12-25
