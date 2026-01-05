@@ -9,6 +9,11 @@ redirect_from:
 ---
 Working Papers
 ======
+[W3] Kexin Zhang, Yanqing Xu, **Lei Li**, Ruisi He, Chao Shen, and Tsung-Hui Chang, “Joint Optimization of Target Scheduling and Beamforming Design in ISAC Networks,” submitted to _IEEE Transactions on Vehicular Technology_.
+
+[W2] **Lei Li**, Yanqing Xu, Ye Xue, Feng Yin, Chao Shen, Rui Zhang, and Tsung-Hui Chang, “PEMNet: Towards Autonomous and Enhanced Environment-Aware Mobile Networks,” submitted to _IEEE Communications Magazine_.
+
+[W1] **Lei Li**, Yanqing Xu, Tenghao Cai, and Tsung-Hui Chang, “Power Minimization in Pinching-Antenna Systems under Probabilistic LoS Blockage,” submitted to _IEEE Wireless Communications Letters_.
 
 Journal Papers
 ======
@@ -18,9 +23,9 @@ Journal Papers
 
 [J7] Kexin Zhang, **Lei Li**, Chao Shen, Ruisi He, and Tsung-Hui Chang, “[Joint Fronthaul Compression and Power Allocation Optimization for Networked ISAC](https://ieeexplore.ieee.org/document/10818419)," _IEEE Transactions on Vehicular Technology_, 2024.
 
-[J6] **Lei Li**, Xing Zeng, Ya-Feng Liu, Yanqing Xu, and Tsung-Hui Chang, “[CSI Sensing from Heterogeneous User Feedbacks: A Constrained Phase Retrieval Approach](https://ieeexplore.ieee.org/document/10056863)," _IEEE Transactions on Wireless Communications,_ 2023. 
+[J6] **Lei Li**, Xing Zeng, Ya-Feng Liu, Yanqing Xu, and Tsung-Hui Chang, “[CSI Sensing from Heterogeneous User Feedbacks: A Constrained Phase Retrieval Approach](https://ieeexplore.ieee.org/document/10056863)," _IEEE Transactions on Wireless Communications_, 2023. 
 
-[J5] **Lei Li**, Minghe Zhu, Shuqiang Xia, and Tsung-Hui Chang, “[Downlink CSI Recovery in Massive MIMO Systems by Proactive Sensing](https://ieeexplore.ieee.org/document/9979723)," _IEEE Wireless Communications Letters,_ 2023.
+[J5] **Lei Li**, Minghe Zhu, Shuqiang Xia, and Tsung-Hui Chang, “[Downlink CSI Recovery in Massive MIMO Systems by Proactive Sensing](https://ieeexplore.ieee.org/document/9979723)," _IEEE Wireless Communications Letters_, 2023.
 
 [J4] **Lei Li**, Tsung-Hui Chang, and Shu Cai, 
 “[UAV Positioning and Power Control for Two-Way Wireless Relaying](https://ieeexplore.ieee.org/document/8891916)," _IEEE Transactions on Wireless Communications,_ 2020.
