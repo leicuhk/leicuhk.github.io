@@ -11,9 +11,9 @@ Working Papers
 ======
 [W3] Kexin Zhang, Yanqing Xu, **Lei Li**, Ruisi He, Chao Shen, and Tsung-Hui Chang, “Joint Optimization of Target Scheduling and Beamforming Design in ISAC Networks,” submitted to _IEEE Transactions on Vehicular Technology_.
 
-[W2] **Lei Li**, Yanqing Xu, Ye Xue, Feng Yin, Chao Shen, Rui Zhang, and Tsung-Hui Chang, “PEMNet: Towards Autonomous and Enhanced Environment-Aware Mobile Networks,” submitted to _IEEE Communications Magazine_.
+[W2] **Lei Li**, Yanqing Xu, Ye Xue, Feng Yin, Chao Shen, Rui Zhang, and Tsung-Hui Chang, “[PEMNet: Towards Autonomous and Enhanced Environment-Aware Mobile Networks](https://arxiv.org/abs/2601.11025),” submitted to _IEEE Communications Magazine_.
 
-[W1] **Lei Li**, Yanqing Xu, Tenghao Cai, and Tsung-Hui Chang, “Power Minimization in Pinching-Antenna Systems under Probabilistic LoS Blockage,” submitted to _IEEE Wireless Communications Letters_.
+[W1] **Lei Li**, Yanqing Xu, Tenghao Cai, and Tsung-Hui Chang, “[Power Minimization in Pinching-Antenna Systems under Probabilistic LoS Blockage](https://arxiv.org/abs/2512.24573),” submitted to _IEEE Wireless Communications Letters_.
 
 Journal Papers
 ======
