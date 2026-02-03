@@ -9,6 +9,8 @@ redirect_from:
 ---
 Working Papers
 ======
+[W4] Tenghao Cai, **Lei Li**, Shutao Zhang, and Tsung-Hui Chang, “Toward Distributed User Scheduling and Coordinated Beamforming in Multi-Cell mmWave Networks: A Sensing-Assisted Framework,” submitted to _IEEE Transactions on Wireless Communications_.
+
 [W3] Kexin Zhang, Yanqing Xu, **Lei Li**, Ruisi He, Chao Shen, and Tsung-Hui Chang, “Joint Optimization of Target Scheduling and Beamforming Design in ISAC Networks,” submitted to _IEEE Transactions on Vehicular Technology_.
 
 [W2] **Lei Li**, Yanqing Xu, Ye Xue, Feng Yin, Chao Shen, Rui Zhang, and Tsung-Hui Chang, “[PEMNet: Towards Autonomous and Enhanced Environment-Aware Mobile Networks](https://arxiv.org/abs/2601.11025),” submitted to _IEEE Communications Magazine_.
