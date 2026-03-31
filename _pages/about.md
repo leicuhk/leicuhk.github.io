@@ -18,6 +18,9 @@ Before joining CUHK-Shenzhen, I received the B.E. degree (Siyuan Honor Program) 
 
 News
 ======
+
+\[Mar. 2026\] Our paper "QoS-Constrained Scheduling in Multi-Cell Multi-User MIMO Network" has been accepted by IEEE ICC 2026.
+
 \[May 2025\] Our paper "Joint Scheduling and Beamforming Design in ISAC Networks for Multi-target Tracking" has been accepted by IEEE SPAWC 2025.
 
 \[Jan. 2025\] Our paper "When GNNs Meet Symmetry in ILPs: An Orbit-based Feature Augmentation Approach" has been accepted by ICLR 2025.
