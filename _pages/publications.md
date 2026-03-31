@@ -9,7 +9,7 @@ redirect_from:
 ---
 Working Papers
 ======
-[W5] Tenghao Cai, **Lei Li**, and Tsung-Hui Chang, “[Distributed User Scheduling in Multi-Cell MIMO O-RAN with QoS Constraints](https://arxiv.org/pdf/2603.28283),” submitted to _IEEE Transactions on Mobile Computing.
+[W5] Tenghao Cai, **Lei Li**, and Tsung-Hui Chang, “[Distributed User Scheduling in Multi-Cell MIMO O-RAN with QoS Constraints](https://arxiv.org/pdf/2603.28283),” submitted to _IEEE Transactions on Mobile Computing_.
 
 [W4] Tenghao Cai, **Lei Li**, Shutao Zhang, and Tsung-Hui Chang, “[Toward Distributed User Scheduling and Coordinated Beamforming in Multi-Cell mmWave Networks: A Sensing-Assisted Framework](https://arxiv.org/abs/2603.28305),” submitted to _IEEE Transactions on Wireless Communications_.
 
