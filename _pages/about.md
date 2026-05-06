@@ -18,7 +18,7 @@ Before joining CUHK-Shenzhen, I received the B.E. degree (Siyuan Honor Program) 
 
 News
 ======
-\[May. 2026\] Our paper "Power Minimization in Pinching-Antenna Systems under Probabilistic LoS Blockage" has been accepted by IEEE Wireless Communications Letters.
+\[May 2026\] Our paper "Power Minimization in Pinching-Antenna Systems under Probabilistic LoS Blockage" has been accepted by IEEE Wireless Communications Letters.
 
 \[Mar. 2026\] Our paper "QoS-Constrained Scheduling in Multi-Cell Multi-User MIMO Network" has been accepted by IEEE ICC 2026.
 
