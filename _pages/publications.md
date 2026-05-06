@@ -9,18 +9,18 @@ redirect_from:
 ---
 Working Papers
 ======
-[W5] Tenghao Cai, **Lei Li**, and Tsung-Hui Chang, “[Distributed User Scheduling in Multi-Cell MIMO O-RAN with QoS Constraints](https://arxiv.org/pdf/2603.28283),” submitted to _IEEE Transactions on Mobile Computing_.
+[W4] Tenghao Cai, **Lei Li**, and Tsung-Hui Chang, “[Distributed User Scheduling in Multi-Cell MIMO O-RAN with QoS Constraints](https://arxiv.org/pdf/2603.28283),” submitted to _IEEE Transactions on Mobile Computing_.
 
-[W4] Tenghao Cai, **Lei Li**, Shutao Zhang, and Tsung-Hui Chang, “[Toward Distributed User Scheduling and Coordinated Beamforming in Multi-Cell mmWave Networks: A Sensing-Assisted Framework](https://arxiv.org/abs/2603.28305),” submitted to _IEEE Transactions on Wireless Communications_.
+[W3] Tenghao Cai, **Lei Li**, Shutao Zhang, and Tsung-Hui Chang, “[Toward Distributed User Scheduling and Coordinated Beamforming in Multi-Cell mmWave Networks: A Sensing-Assisted Framework](https://arxiv.org/abs/2603.28305),” submitted to _IEEE Transactions on Wireless Communications_.
 
-[W3] Kexin Zhang, Yanqing Xu, **Lei Li**, Ruisi He, Chao Shen, and Tsung-Hui Chang, “Joint Optimization of Target Scheduling and Beamforming Design in ISAC Networks,” submitted to _IEEE Transactions on Vehicular Technology_.
+[W2] Kexin Zhang, Yanqing Xu, **Lei Li**, Ruisi He, Chao Shen, and Tsung-Hui Chang, “Joint Optimization of Target Scheduling and Beamforming Design in ISAC Networks,” submitted to _IEEE Transactions on Vehicular Technology_.
 
-[W2] **Lei Li**, Yanqing Xu, Ye Xue, Feng Yin, Chao Shen, Rui Zhang, and Tsung-Hui Chang, “[PEMNet: Towards Autonomous and Enhanced Environment-Aware Mobile Networks](https://arxiv.org/abs/2601.11025),” submitted to _IEEE Communications Magazine_.
-
-[W1] **Lei Li**, Yanqing Xu, Tenghao Cai, and Tsung-Hui Chang, “[Power Minimization in Pinching-Antenna Systems under Probabilistic LoS Blockage](https://arxiv.org/abs/2512.24573),” submitted to _IEEE Wireless Communications Letters_.
+[W1] **Lei Li**, Yanqing Xu, Ye Xue, Feng Yin, Chao Shen, Rui Zhang, and Tsung-Hui Chang, “[PEMNet: Towards Autonomous and Enhanced Environment-Aware Mobile Networks](https://arxiv.org/abs/2601.11025),” submitted to _IEEE Communications Magazine_.
 
 Journal Papers
 ======
+[J10] **Lei Li**, Yanqing Xu, Tenghao Cai, and Tsung-Hui Chang, “[Power Minimization in Pinching-Antenna Systems under Probabilistic LoS Blockage](https://arxiv.org/abs/2512.24573),” accepted by _IEEE Wireless Communications Letters_, 2026.
+
 [J9] Qian Chen, **Lei Li**, Xiaodong Luo, and Tsung-Hui Chang, “[Transformer-Inspired Deep Adaptive CSI Sensing with Learnable Quantizer](https://ieeexplore.ieee.org/abstract/document/10919216)," _IEEE Transactions on Vehicular Technology_, 2025. 
 
 [J8] **Lei Li**, Jiawei Zhang, and Tsung-Hui Chang, “[Beamforming Optimization for Robust Sensing and Communication in Dynamic Mmwave MIMO Networks](https://ieeexplore.ieee.org/document/10845207)," _IEEE Journal on Selected Areas in Communications_, 2025. 
