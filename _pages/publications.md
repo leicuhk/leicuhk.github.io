@@ -19,7 +19,7 @@ Working Papers
 
 Journal Papers
 ======
-[J10] **Lei Li**, Yanqing Xu, Tenghao Cai, and Tsung-Hui Chang, “[Power Minimization in Pinching-Antenna Systems under Probabilistic LoS Blockage]([https://arxiv.org/abs/2512.24573v2](https://ieeexplore.ieee.org/document/11516156)),” _IEEE Wireless Communications Letters_, 2026.
+[J10] **Lei Li**, Yanqing Xu, Tenghao Cai, and Tsung-Hui Chang, “[Power Minimization in Pinching-Antenna Systems under Probabilistic LoS Blockage]([https://arxiv.org/abs/2512.24573v2](https://ieeexplore.ieee.org/document/11516156),” _IEEE Wireless Communications Letters_, 2026.
 
 [J9] Qian Chen, **Lei Li**, Xiaodong Luo, and Tsung-Hui Chang, “[Transformer-Inspired Deep Adaptive CSI Sensing with Learnable Quantizer](https://ieeexplore.ieee.org/abstract/document/10919216)," _IEEE Transactions on Vehicular Technology_, 2025. 
 
