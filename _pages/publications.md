@@ -44,7 +44,7 @@ Journal Papers
 
 Conference Papers
 ======
-[C12] Tenghao Cai, **Lei Li**, and Tsung-Hui Chang, “QoS-Constrained Scheduling in Multi-Cell Multi-User MIMO Networks," in Proc. _IEEE ICC_ 2026, to appear.
+[C12] Tenghao Cai, **Lei Li**, and Tsung-Hui Chang, “[QoS-Constrained Scheduling in Multi-Cell Multi-User MIMO Networks](https://ieeexplore.ieee.org/document/11586678)," in Proc. _IEEE ICC Workshops_ 2026.
 
 [C11] Kexin Zhang, Yanqing Xu, **Lei Li**, Ruisi He, Chao Shen, and Tsung-Hui Chang, “[Joint Scheduling and Beamforming Design in ISAC Networks for Multi-target Tracking](https://ieeexplore.ieee.org/abstract/document/11143427)," in Proc. _IEEE SPAWC_ 2025.
 
